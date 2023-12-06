@@ -1,3 +1,5 @@
 torch==2.1.1
 transformers @ git+https://github.com/huggingface/transformers.git@v4.35.2
 autoawq
+IPython
+ipywidgets
